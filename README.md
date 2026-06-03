@@ -40,4 +40,4 @@ Press Play to test idle, walk, and run animations based on character movement.
 <img width="843" height="577" alt="image" src="https://github.com/user-attachments/assets/f5e177c8-a65d-4ba3-9c45-d9fa75011b01" />
 
 ## Result
-The default Third Person C
+The default Third Person C is successfully verified.
